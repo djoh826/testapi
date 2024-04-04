@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Event 1",
+    "location": "1234 Wallaby Lane",
+    "date": "April 7th at 7:00pm",
+    "description": "Playing our jazz setlist at event 1 on Sunday!"
+  },
+  {
+    "name": "Event 2",
+    "location": "5678 Kangaroo Lane",
+    "date": "April 8th at 7:00pm",
+    "description": "Playing our jazz setlist at event 2 on Monday!"
+  },
+  {
+    "name": "Event 3",
+    "location": "91011 Koala Lane",
+    "date": "April 9th at 6:00pm",
+    "description": "Playing our jazz setlist at event 3 on Tuesday!"
+  }
+]
