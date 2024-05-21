@@ -1,23 +1,23 @@
 [
   {
-    "name": "Test Event 1",
-    "location": "1234 Wallaby Lane",
-    "date": "April 7th at 7:00pm",
-    "description": "Playing our jazz setlist at event 1 on Sunday!",
-    "url": "https://maps.app.goo.gl/ZD1SwJqjwMGqQrFD7"
+    "name": "The Good Cigar",
+    "location": "2401 Little Elm Pkwy #300",
+    "date": "May 25th at 7:00pm",
+    "description": "Residency",
+    "url": "https://maps.app.goo.gl/A7Sde2T7iuDWLv1P9"
   },
   {
-    "name": "Test Event 2",
-    "location": "5678 Kangaroo Lane",
-    "date": "April 8th at 7:00pm",
-    "description": "Playing our jazz setlist at event 2 on Monday!",
-    "url": "https://maps.app.goo.gl/ZD1SwJqjwMGqQrFD7"
+    "name": "The Good Cigar",
+    "location": "2401 Little Elm Pkwy #300",
+    "date": "June 15th at 7:00pm",
+    "description": "",
+    "url": "https://maps.app.goo.gl/A7Sde2T7iuDWLv1P9"
   },
   {
-    "name": "Test Event 3",
+    "name": "Didi's Downtown",
     "location": "91011 Koala Lane",
-    "date": "April 9th at 6:00pm",
-    "description": "Playing our jazz setlist at event 3 on Tuesday!",
-    "url": "https://maps.app.goo.gl/ZD1SwJqjwMGqQrFD7"
+    "date": "June 22nd at 7:00pm",
+    "description": "",
+    "url": "https://maps.app.goo.gl/sdzM1j6uRJZFpxy89"
   }
 ]
